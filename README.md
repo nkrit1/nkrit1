@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hi! I'm [**@nkrit1**](https://github.com/nkrit1) (Anastasia Kritinina).
+
+- 🔭 I'm C# developer, currently working at [@Niigazeconomika](https://niigazekonomika.gazprom.ru/) as a junior researcher.
+
+- 🌱 I’m currently studuying at Gubkin Russian State University[@GU](https://en.gubkin.ru/). My major is Applied Mathematics and I am writing my PhD thesis on gas consumption prediction.
+
+- ⚡ I'm currently studying Python at [@GazpromneftAVSV](https://avsv.gazprom-neft.ru/).
+
+- 📫 nastya.krit@yandex.ru
+
 
 <!--
 **nkrit1/nkrit1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
