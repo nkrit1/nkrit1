@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently studuying [@Gubkin Russian State University of Oil and Gas](https://en.gubkin.ru/). My major is Applied Mathematics and I am writing my PhD thesis on gas consumption prediction.
 
-- ⚡ I'm currently studying Python [@Gazpromneft](https://avsv.gazprom-neft.ru/).
+- ⚡ I'm currently learning Python [@Gazpromneft](https://avsv.gazprom-neft.ru/).
 
 - 📫 nastya.krit@yandex.ru
 
