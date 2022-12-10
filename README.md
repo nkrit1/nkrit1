@@ -2,9 +2,9 @@
 
 - 🔭 I'm C# developer, currently working [@Niigazeconomika](https://niigazekonomika.gazprom.ru/) as a junior researcher.
 
-- 🌱 I’m currently studuying [@Gubkin Russian State University](https://en.gubkin.ru/). My major is Applied Mathematics and I am writing my PhD thesis on gas consumption prediction.
+- 🌱 I’m currently studuying [@Gubkin Russian State University of Oil and Gas](https://en.gubkin.ru/). My major is Applied Mathematics and I am writing my PhD thesis on gas consumption prediction.
 
-- ⚡ I'm currently studying Python [@GazpromneftAVSV](https://avsv.gazprom-neft.ru/).
+- ⚡ I'm currently studying Python [@Gazpromneft](https://avsv.gazprom-neft.ru/).
 
 - 📫 nastya.krit@yandex.ru
 
