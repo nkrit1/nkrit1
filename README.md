@@ -2,7 +2,7 @@
 
 - 🔭 I'm C++ developer, currently working as a junior researcher.
 
-- 🌱 I’m currently studuying [@Gubkin Russian State University of Oil and Gas](https://en.gubkin.ru/). My major is Applied Mathematics and I am writing my PhD thesis on virtual analyzers of natural gastarnsportation system.
+- 🌱 I’m currently studuying [@Gubkin Russian State University of Oil and Gas](https://en.gubkin.ru/). My major is Applied Mathematics and I am writing my PhD thesis on virtual analyzers of natural gas transportation system.
 
 - 📫 nastya.krit@yandex.ru
 
