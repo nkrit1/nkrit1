@@ -1,8 +1,8 @@
 ### Hi! I'm [**@nkrit1**](https://github.com/nkrit1) (Anastasia Kritinina).
 
-- 🔭 I'm Python/C++ developer, currently working as a researcher.
+- 🔭 I'm Python/C++ developer, currently working as a senior researcher.
 
-- 🌱 I’m currently studuying [@Gubkin Russian State University of Oil and Gas](https://en.gubkin.ru/). My major is Applied Mathematics and I am writing my PhD thesis on natural gas transportation system optimization programming.
+- 🌱 I’m currently studuying and my major is Applied Mathematics and I am writing my PhD thesis on combinatorial optimization.
 
 - 📫 nastya.krit@yandex.ru
 
